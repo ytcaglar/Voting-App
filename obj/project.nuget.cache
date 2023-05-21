@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "u/K2w8yZAFTQDGncG4GiDGjkq9GyiT0/D2jF6q1VG4ZHaJhlBq/htyECqby3jB/+TTDo2FAbyMCMwl9V0Pwo0Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\tolun\\OneDrive\\Masaüstü\\Voting_App\\Voting_App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tolun\\.nuget\\packages\\barcodelib\\2.4.0\\barcodelib.2.4.0.nupkg.sha512",
+    "C:\\Users\\tolun\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",
+    "C:\\Users\\tolun\\.nuget\\packages\\microsoft.win32.systemevents\\5.0.0\\microsoft.win32.systemevents.5.0.0.nupkg.sha512",
+    "C:\\Users\\tolun\\.nuget\\packages\\system.drawing.common\\5.0.2\\system.drawing.common.5.0.2.nupkg.sha512",
+    "C:\\Users\\tolun\\.nuget\\packages\\system.text.json\\5.0.2\\system.text.json.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
